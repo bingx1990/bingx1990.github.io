@@ -1,3 +1,3 @@
 layout: page
-title: "Publications"
+title: "Publication"
 permalink: /publication/
