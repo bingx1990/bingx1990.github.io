@@ -7,7 +7,7 @@ nav_order: 6
 ---
 
 <div style="text-align: center;">
-  <img src="assets/img/cornell_camp.jpg" alt="Description of the image" style="width: 100%; max-width: 800px;">
+  <img src="assets/img/cornell_camp.jpg" alt="" style="width: 100%; max-width: 800px;">
 </div>
  
 
