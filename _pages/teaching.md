@@ -1,16 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title: ""
+title: teaching
 nav: true
 nav_order: 6
 ---
-
-<div style="text-align: center;">
-  <img src="assets/img/cornell_camp.jpg" alt="" style="width: 100%; max-width: 800px;">
-</div>
  
-
 
 ### University of Toronto
 At the Univeristy of Toronto, I’ve taught the following courses:
@@ -29,3 +24,6 @@ When I was at Cornell, I was the teaching assistant of the following courses
 - MATH 4720: Statistics
 - STSCI 4740: Data Mining and Machine Learning
 - BRTY/STSCI 4090: Theory of Statistics
+
+
+![Cornell Campus](assets/img/cornell_camp.jpg){: .center }
