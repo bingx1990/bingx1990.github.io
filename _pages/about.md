@@ -18,6 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<br> 
 
 Xin is an Assistant Professor in the Department of Statistical Sciences at the University of Toronto starting from March, 2022. He finished his Ph.D. in Statistics in June, 2021 from the Department of Statistics and Data Science at Cornell University, advised jointly by Florentina Bunea and Marten Wegkamp. Before joining in UofT, Xin had a 3-month visit at the Department of Pure Mathematics and Mathematical Statistics at the University of Cambridge hosted by Richard J. Samworth. Prior to his Ph.D. study, he received a BS in Mathematics in 2013 from Shandong University, China and an MS in Statistics in 2016 from University of Washington, Seattle.
 
