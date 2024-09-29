@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: 5px;">  Name in mandarin: 邴欣 </p>
-    <p style="font-size: 5px;">  English name: Mike  </p>
-    <p style="font-size: 5px;">  Email: xin.bing[at]utoronto[dot]ca </p>
+    <p>  Name in mandarin: 邴欣 </p>
+    <p>  English name: Mike  </p>
+    <p>  Email: xin.bing[at]utoronto[dot]ca </p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
