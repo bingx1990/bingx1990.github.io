@@ -26,4 +26,4 @@ When I was at Cornell, I was the teaching assistant of the following courses
 - BRTY/STSCI 4090: Theory of Statistics
 
 
-![Cornell Campus](assets/img/cornell_camp.jpg){: .center }
+![Cornell Campus](bingx1990.github.io/assets/img/cornell_camp.jpg){: .center }
