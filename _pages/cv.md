@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 permalink: /cv/
 nav: true
 nav_order: 3
@@ -17,4 +17,4 @@ toc:
   sidebar: left
 -->
 
-<meta http-equiv="refresh" content="0; URL='/assets/pdf/cv.pdf'" />
+<meta http-equiv="refresh" content="0; URL='assets/pdf/cv.pdf'" />
