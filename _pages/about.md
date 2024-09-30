@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, Department of Statistical Sciences, University of Toronto.
+subtitle: <a href='#'>Affiliations</a>. Department of Statistical Sciences, University of Toronto.
 
 profile:
   align: left
