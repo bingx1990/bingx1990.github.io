@@ -26,7 +26,7 @@ nav_order: 3
       <li>BRTY/STSCI 4090: Theory of Statistics</li>
     </ul>
   </div>
-  <div class="col-md-8 mt-3 mt-md-0">
+  <div class="col-sm-8 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/cornell_camp.jpg" title="Cornell Campus" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
