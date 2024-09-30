@@ -9,13 +9,13 @@ nav_order: 3
 
 <div class="row">
   <div class="col-sm-12 mt-3 mt-md-0">
-     <h3>University of Toronto</h3>
+    <!-- <h3>University of Toronto</h3> -->
     <p>At the University of Toronto, I’ve taught the following courses:</p>
     <ul>
       <li>STA2211HS: Graduate Probability II (2024-25, Spring).</li>
       <li>STA314H: Statistical methods for machine learning I (2022-23, 2023-24, <a href="http://courses.utstat.utoronto.ca/sta314_f24/" target="_blank">2024-25</a>, Fall).</li>
     </ul>
-    <h3>Cornell University</h3>
+    <!-- <h3>Cornell University</h3>  -->
     <p>When I was at Cornell, I was the teaching assistant of the following courses:</p>
     <ul>
       <li>ILRS 3110: Probability Models and Inference for the Social Sciences</li>
