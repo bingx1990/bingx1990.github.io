@@ -5,9 +5,9 @@ title: teaching
 nav: true
 nav_order: 3
 ---
+ 
 
-
-<div class="row justify-content-sm-center">
+<div class="row align-items-center">
   <div class="col-sm-4 mt-3 mt-md-0">
      <h3>University of Toronto</h3>
     <p>At the University of Toronto, I’ve taught the following courses:</p>
