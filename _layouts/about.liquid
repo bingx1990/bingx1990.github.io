@@ -15,9 +15,9 @@ layout: default
   </header>
 
   <article>
-    {% if page.profile %}
-      <div class="row">
-        <div class="profile col-sm-8 float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %} mt-3">
+    <div class="row">
+      {% if page.profile %}
+        <div class="profile col-sm-6 float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %} mt-3">
           {% if page.profile.image %}
             {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
             {% if page.profile.image_circular %}
@@ -34,13 +34,13 @@ layout: default
             %}
           {% endif %}
           {% if page.profile.more_info %}
-            <div class="more-info col-sm-4 float-right">{{ page.profile.more_info }}</div>
+            <div class="more-info">{{ page.profile.more_info }}</div>
           {% endif %}
         </div>
-      </div>
-    {% endif %}
+      {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+      <div class="clearfix col-sm-6">{{ content }}</div>
+    </div>
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
