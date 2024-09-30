@@ -1,8 +1,8 @@
 ---
-layout: null
+layout: default
 permalink: /cv/
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 <!-- Previous setup
