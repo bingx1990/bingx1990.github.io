@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-
+---
 ### Papers Under Review
 
 - Xin Bing, Florentina Bunea, Jonathan Niles-Weed and Marten Wegkamp. *Learning large softmax mixtures with warm start EM*. [[arXiv]](https://arxiv.org/abs/2409.09903).
