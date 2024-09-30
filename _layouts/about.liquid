@@ -38,12 +38,12 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix mt-5">{{ content }}</div>
+    <div class="clearfix mt-10">{{ content }}</div>
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2 style="margin-top: 20px;>
-        <a href="{{ '/News/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
