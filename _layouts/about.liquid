@@ -15,8 +15,8 @@ layout: default
   </header>
 
   <article>
-    <div class="row">
-      {% if page.profile %}
+    {% if page.profile %}
+      <div class="row">
         <div class="profile col-sm-6 float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %} mt-3">
           {% if page.profile.image %}
             {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
@@ -34,10 +34,9 @@ layout: default
             <div class="more-info">{{ page.profile.more_info }}</div>
           {% endif %}
         </div>
-      {% endif %}
-    
-      <div class="clearfix col-sm-6">{{ content }}</div>
-    </div>
+        <div class="clearfix col-sm-6">{{ content }}</div>
+      </div>
+    {% endif %}
 
 
     <!-- News -->
