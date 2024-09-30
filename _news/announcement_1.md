@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-09-24
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our new paper *Learning large softmax mixtures with warm start EM* is now available on [[arXiv]](https://arxiv.org/abs/2409.09903). It studies computationally efficient and provable estimation algorithms under mixed multinomial logit models. 
