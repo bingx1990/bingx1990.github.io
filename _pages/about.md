@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /biography/
-title: biography
+permalink: /about/
+title: About me
 nav: true
 nav_order: 1
 ---
