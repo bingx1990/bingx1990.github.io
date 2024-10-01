@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Department of Statistical Sciences, University of Toronto.
+subtitle: | 
+  - Name in mandarin: 邴欣  
+  - English name: Mike  
+  - Email: xin.bing[at]utoronto[dot]ca  
+  - <a href='#'>Affiliations</a>. Department of Statistical Sciences, University of Toronto.
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <ul>
-        <li>Name in mandarin: 邴欣</li>
-        <li>English name: Mike</li>
-        <li>Email: xin.bing[at]utoronto[dot]ca</li>
-    </ul>
+   
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
