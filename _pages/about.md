@@ -21,4 +21,4 @@ social: true # includes social icons at the bottom of the page
 ---
  
 
-Xin is an Assistant Professor in the Department of Statistical Sciences at the University of Toronto. His research interest generally lies in developing new methodology with theoretical guarantees to tackle modern statistical problems such as high-dimensional statistics, mixture models, low-rank matrix estimation, multivariate analysis, model-based clustering, latent factor model, topic models, minimax estimation, high-dimensional inference, statistical and computational trade-offs. He is also interested in applications of statistical methods to genetics, neuroscience, immunology and other areas.
+
