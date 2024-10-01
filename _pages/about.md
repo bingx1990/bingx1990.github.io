@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: | 
-  - Name in mandarin: 邴欣  
-  - English name: Mike  
-  - Email: xin.bing[at]utoronto[dot]ca  
+  - Name in mandarin: 邴欣  <br>
+  - English name: Mike  <br>
+  - Email: xin.bing[at]utoronto[dot]ca  <br>
   - <a href='#'>Affiliations</a>. Department of Statistical Sciences, University of Toronto.
 
 profile:
