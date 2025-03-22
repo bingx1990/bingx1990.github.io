@@ -13,8 +13,8 @@ nav_order: 4
 - Chao Wang.
 
 ### Current Ph.D. students
-- Bingqing Li, jointly supervised with Dehan Kong.
-- Muheng Li, jointly supervised with Wenlong Mou.
+- Bingqing Li. (jointly supervised with [Dehan Kong](https://sites.google.com/site/kongdehanstat/home?authuser=0))
+- Muheng Li. (jointly supervised with [Wenlong Mou](https://mouwenlong.github.io))
 - Weicheng Wu.
   
 --- 
@@ -23,7 +23,7 @@ nav_order: 4
 
 #### Undergrad students
 
-- Shangkai Zhu. (A master student in the Dept of Stat. at U Chicago).
-- Yihan Chen. (A master student in the Dept of Stat. at U Chicago).
+- Shangkai Zhu. Placement: Master’s student in Statistics at the University of Chicago.
+- Yihan Chen. <br> Placement: Master’s student in Statistics at the University of Chicago. 
 
 
