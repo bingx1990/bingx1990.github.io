@@ -12,10 +12,13 @@ nav_order: 3
     <!-- <h3>University of Toronto</h3> -->
     <p>At the University of Toronto, I’ve taught the following courses:</p>
     <ul>
-      <li>STA2211HS: Graduate Probability II (2024-25, Spring).</li>
-      <li>STA314H: Statistical methods for machine learning I (<a href="http://courses.utstat.utoronto.ca/sta314_f24/" target="_blank">2024-25</a>, Fall).</li>
-      <li>STA314H: Statistical methods for machine learning I (2023-24, Fall).</li>
-      <li>STA314H: Statistical methods for machine learning I (2022-23, Fall).</li>
+      <li>STA314: Statistical methods for machine learning I (2025-26, Spring).</li>
+      <li>STA3000: Advanced Theory of Statistics II (2025-26, Spring).</li>
+      <li>STA2211: Graduate Probability II (2025-26, Spring).</li>
+      <li>STA2211: Graduate Probability II (2024-25, Spring).</li>
+      <li>STA314: Statistical methods for machine learning I (<a href="http://courses.utstat.utoronto.ca/sta314_f24/" target="_blank">2024-25</a>, Fall).</li>
+      <li>STA314: Statistical methods for machine learning I (2023-24, Fall).</li>
+      <li>STA314: Statistical methods for machine learning I (2022-23, Fall).</li>
     </ul>
     <!-- <h3>Cornell University</h3>  -->
     <p>When I was at Cornell, I was the teaching assistant of the following courses:</p>
