@@ -23,7 +23,7 @@ nav_order: 4
 
 #### Undergrad students
 
-- Shangkai Zhu. Placement: Master’s student in Statistics at the University of Chicago.
+- Shangkai Zhu. <br> Placement: Master’s student in Statistics at the University of Chicago.
 - Yihan Chen. <br> Placement: Master’s student in Statistics at the University of Chicago. 
 
 
