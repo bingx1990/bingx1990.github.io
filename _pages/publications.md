@@ -13,12 +13,13 @@ nav_order: 2
 - Xin Bing, Florentina Bunea, Jonathan Niles-Weed and Marten Wegkamp. *Learning large softmax mixtures with warm start EM*. [[arXiv]](https://arxiv.org/abs/2409.09903).
 - Xin Bing, Bingqing Li and Marten Wegkamp. *Linear Discriminant Regularized Regression*. [[arXiv]](https://arxiv.org/abs/2402.14260).
 - Xin Bing and Shangkai Zhu. *Double denoising k-means clustering*.
+- Eugen Pircalabelu and Xin Bing. *Overlapping clustering of time dependent variables for fMRI data*.
 
 --- 
 
 ### Papers Published in Journals
 
-1. Xin Bing, Dian Jin and Yuqian Zhang. <br> *Optimal vintage factor analysis with deflation varimax*. <br>  **The Annals of Statistics**, to appear (2025+). [[arXiv]](https://arxiv.org/abs/2310.10545).
+1. Xin Bing, Xin He, Dian Jin and Yuqian Zhang. <br> *Optimal vintage factor analysis with deflation varimax*. <br>  **The Annals of Statistics**, to appear (2025+). [[arXiv]](https://arxiv.org/abs/2310.10545).
 2. Xin Bing, Florentina Bunea and Jonathan Niles-Weed. <br> *The Sketched Wasserstein Distance for mixture distributions*. <br> **Bernoulli**, to appear (2025+). [[arXiv]](https://arxiv.org/abs/2206.12768).
 3. Xin Bing and Marten Wegkamp. <br> *Interpolating Discriminant Functions in High-Dimensional Gaussian Latent Mixtures*. <br> **Biometrika**, 111(1): 291-308, March 2024. [[Paper]](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asad037/7192166).
 4. Xin Bing, Wei Cheng, Huijie Feng and Yang Ning. <br> *Inference in High-dimensional Multivariate Response Regression with Hidden Variables*. <br>  **Journal of American Statistical Association (Theory & Method)**, 119(547), 2066–2077. Sep 2023. [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/01621459.2023.2241701).
