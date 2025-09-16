@@ -9,6 +9,7 @@ nav_order: 2
 ---
 ### Papers Under Review
 
+- Xin Bing, Dehan Kong and Bingqing Li. *Convergence and Optimality of the EM Algorithm Under Multi-Component Gaussian Mixture Mod*. [[arXiv]](https://arxiv.org/abs/2509.08237).
 - Xin Bing and Derek Latremouille. *High-Dimensional Invariant Tests of Multivariate Normality Based on Radial Concentration*. [[arXiv]](https://arxiv.org/abs/2504.09237).
 - Xin Bing, Xin He and Chao Wang. *Kernel Ridge Regression with Predicted Feature Inputs and Applications to Factor-Based Nonparametric Regression*.[[arXiv]](https://arxiv.org/abs/2505.20022).
 - Xin Bing, Florentina Bunea, Jonathan Niles-Weed and Marten Wegkamp. *Learning large softmax mixtures with warm start EM*. [[arXiv]](https://arxiv.org/abs/2409.09903).
