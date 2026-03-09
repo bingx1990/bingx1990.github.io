@@ -18,8 +18,8 @@ nav_order: 4
 - Weicheng Wu.
 
 ### Current undergrad students
-- Peize Zhang (UofT 4th year undergrad)
-- Aditya Aryan (ISI 3rd year undergrad)
+- Peize Zhang (4th year undergrad at the University of Toronto)
+- Aditya Aryan (3rd year undergrad at the Indian Statistical Institute)
 --- 
 
 ### Past group members
