@@ -9,7 +9,9 @@ nav_order: 4
 
 ---
 
-### Past group members
+### Current group members
+
+<br>
 
 #### Postdoctoral researchers
 - Chao Wang
@@ -30,6 +32,8 @@ nav_order: 4
 <br>
 
 ### Past group members
+
+<br>
 
 #### Undergrad students
 
