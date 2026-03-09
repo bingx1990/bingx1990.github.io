@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: people 
 description: Group members
-nav: true
+nav: false
 nav_order: 4
 ---
 
