@@ -2,27 +2,28 @@
 layout: page
 permalink: /people/
 title: people 
-description: Group members
+description: 
 nav: true
 nav_order: 5
 ---
 
 ---
 
-### Current postdoctoral researchers
+## Current postdoctoral researchers
 - Chao Wang
 
-### Current Ph.D. students
+## Current Ph.D. students
 - Bingqing Li (jointly supervised with [Dehan Kong](https://sites.google.com/site/kongdehanstat/home?authuser=0))
 - Muheng Li (jointly supervised with [Wenlong Mou](https://mouwenlong.github.io))
 - Weicheng Wu
 
-### Current undergrad students
+## Current undergrad students
 - Peize Zhang (4th year undergrad at the University of Toronto)
 - Aditya Aryan (3rd year undergrad at the Indian Statistical Institute)
+
 --- 
 
-### Past group members
+## Past group members
 
 #### Undergrad students
 
