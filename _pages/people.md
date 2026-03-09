@@ -16,7 +16,10 @@ nav_order: 4
 - Bingqing Li. (jointly supervised with [Dehan Kong](https://sites.google.com/site/kongdehanstat/home?authuser=0))
 - Muheng Li. (jointly supervised with [Wenlong Mou](https://mouwenlong.github.io))
 - Weicheng Wu.
-  
+
+### Current undergrad students
+- Peize Zhang (UofT 4th year undergrad)
+- Aditya Aryan (ISI 3rd year undergrad)
 --- 
 
 ### Past group members
