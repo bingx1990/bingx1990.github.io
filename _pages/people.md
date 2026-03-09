@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: people 
-description: Members of my group
+description: Group members
 nav: false
 nav_order: 4
 ---
