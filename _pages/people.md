@@ -35,6 +35,10 @@ nav_order: 4
 
 <br>
 
+#### Ph.D. students
+- [Dian Jin](https://jindiande.github.io) (jointly supervised with [Yuqian Zhang](https://sites.google.com/view/yuqianzhang) at Rutgers University)
+  <br> Placement: Postdoctoral researcher in the Department of Statistics and Data Science at the National University of Singapore
+
 #### Undergrad students
 
 - Shangkai Zhu <br> Placement: Master’s student in Statistics at the University of Chicago.
