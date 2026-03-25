@@ -9,7 +9,7 @@ nav_order: 4
 
 ---
 
-### Current group members
+### *Current group members*
 
 <br>
 
@@ -31,7 +31,7 @@ nav_order: 4
 
 <br>
 
-### Past group members
+### *Past group members*
 
 <br>
 
