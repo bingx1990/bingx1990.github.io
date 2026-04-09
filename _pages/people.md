@@ -21,6 +21,7 @@ nav_order: 4
 - Bingqing Li (jointly supervised with [Dehan Kong](https://sites.google.com/site/kongdehanstat/home?authuser=0))
 - Muheng Li (jointly supervised with [Wenlong Mou](https://mouwenlong.github.io))
 - Weicheng Wu
+- Altria Wu (jointly supervised with [Jesse Gronsbell](https://sites.google.com/view/jgronsbell/))
 
 
 #### Undergrad students
