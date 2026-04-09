@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [A New Regression Lens on Multi-Class Classification](https://arxiv.org/pdf/2402.14260) has been accepted by **Bernoulli**. It develops a new flexible regression framework for handling multi-class classification tasks.
+Our paper [A New Regression Lens on Multi-Class Classification](https://arxiv.org/pdf/2402.14260) has been accepted by *Bernoulli*, 2026+. It develops a new flexible regression framework for handling multi-class classification tasks.
