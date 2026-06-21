@@ -9,12 +9,12 @@ nav_order: 2
 ---
 ### Papers Under Review
 
+- Xin Bing and Chao Wang. *Adaptive Kernel Ridge Regression with Linear Structure: Sharp Oracle Inequalities and Minimax Optimality*. [[arXiv]](https://arxiv.org/abs/2605.11806).
 - Xin Bing, Dehan Kong and Bingqing Li. *Convergence and Optimality of the EM Algorithm Under Multi-Component Gaussian Mixture Models*. [[arXiv]](https://arxiv.org/abs/2509.08237).
 - Xin Bing and Derek Latremouille. *High-Dimensional Invariant Tests of Multivariate Normality Based on Radial Concentration*. [[arXiv]](https://arxiv.org/abs/2504.09237).
 - Xin Bing, Xin He and Chao Wang. *Kernel Ridge Regression with Predicted Feature Inputs and Applications to Factor-Based Nonparametric Regression*.[[arXiv]](https://arxiv.org/abs/2505.20022).
 - Xin Bing, Florentina Bunea, Jonathan Niles-Weed and Marten Wegkamp. *Learning large softmax mixtures with warm start EM*. [[arXiv]](https://arxiv.org/abs/2409.09903).
-- Xin Bing and Shangkai Zhu. *Double denoising k-means clustering*.
-- Eugen Pircalabelu and Xin Bing. *Overlapping clustering of time dependent variables for fMRI data*.
+- Xin Bing and Shangkai Zhu. *Double denoising k-means clustering*. 
 
 --- 
 
@@ -48,9 +48,10 @@ nav_order: 2
 
 ### Applications
 
+- Eugen Pircalabelu and Xin Bing. <br> *Overlapping clustering of time dependent variables for fMRI data*. <br> **J. R. Statist. Soc. C**, to appear (2026+).
 - Javad Rahimikollu, Hanxi Xiao, Anna E. Rosengart, Tracy Tabib, Paul Zdinak, Kun He, Xin Bing, Florentina Bunea, Marten Wegkamp, Amanda C. Poholek, Alok V Joglekar, Robert A Lafyatis, Jishnu Das. <br> *SLIDE: Significant Latent Factor Interaction Discovery and Exploration across biological domains*. <br> **Nature Methods**, 21, 835–845 (2024). [[Paper]](https://www.nature.com/articles/s41592-024-02175-z).
 - Xin Bing, Tyler Lovelace, Florentina Bunea, Marten Wegkamp, Harinder Singh, Panayiotis Benos, Jishnu Das. <br> *Essential Regression – a generalizable framework for inferring causal latent factors from multi-omic human datasets*. <br> **Patterns (Cell Press)**, 3(5): 100473, 2022. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2666389922000538).
-- Xin Bing, Florentina Bunea, Martin Royer and Jishnu Das. <br> *Latent Model-Based Clustering for Biological Discovery*. <br> **iScience**, 14: 125–135, 2019.
+- Xin Bing, Florentina Bunea, Martin Royer and Jishnu Das. <br> *Latent Model-Based Clustering for Biological Discovery*. <br> **iScience**, 14: 125–135, 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2589004219300847).
 
 --- 
 
