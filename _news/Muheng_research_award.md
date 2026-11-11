@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations to Muheng Li on winning the Department of Statistical Sciences Doctoral Early Research Excellence Award!
+Congratulations to Muheng on winning the Department of Statistical Sciences Doctoral Early Research Excellence Award!
