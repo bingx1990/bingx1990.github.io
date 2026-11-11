@@ -9,6 +9,9 @@ nav_order: 2
 ---
 ### Papers Under Review
 
+- Muheng Li, Peize Zhang and Xin Bing. *Nonparametric Maximum Likelihood Estimation for Mixtures of Logistic Regressions*. [[arXiv]](https://arxiv.org/abs/2611.14445).
+- Xin Bing, Florentina Bunea, Marten Wegkamp and Weicheng Wu. *Near-Purity Screening and Dominant-Atom Estimation in Softmax Mixtures and Their Ensembles*. [[arXiv]](https://arxiv.org/abs/2611.12647).
+- Xin Bing, Dian Jin and Yuqian Zhang. *Federated Independent Component Analysis via Spectral Alignment and Robust Aggregation*. [[arXiv]](https://arxiv.org/abs/2505.20532).
 - Xin Bing and Chao Wang. *Adaptive Kernel Ridge Regression with Linear Structure: Sharp Oracle Inequalities and Minimax Optimality*. [[arXiv]](https://arxiv.org/abs/2605.11806).
 - Xin Bing and Derek Latremouille. *High-Dimensional Invariant Tests of Multivariate Normality Based on Radial Concentration*. [[arXiv]](https://arxiv.org/abs/2504.09237).
 - Xin Bing, Xin He and Chao Wang. *Kernel Ridge Regression with Predicted Feature Inputs and Applications to Factor-Based Nonparametric Regression*.[[arXiv]](https://arxiv.org/abs/2505.20022).
