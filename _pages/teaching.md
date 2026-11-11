@@ -5,7 +5,6 @@ title: teaching
 nav: true
 nav_order: 3
 ---
- 
 
 <div class="row">
   <div class="col-sm-12 mt-3 mt-md-0">
@@ -38,4 +37,3 @@ nav_order: 3
     {% include figure.liquid path="assets/img/cornell_camp.jpg" title="Cornell Campus" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
- 

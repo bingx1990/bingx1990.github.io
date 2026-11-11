@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-## Journal publications 
+## Journal publications
 
 {% include bib_search.liquid %}
 
@@ -21,4 +21,4 @@ nav_order: 2
 
 </div>
 
-## Conference publications 
+## Conference publications

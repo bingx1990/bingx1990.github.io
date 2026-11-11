@@ -45,8 +45,15 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Link Checker 🔗
-        uses: lycheeverse/lychee-action@v1.9.0
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
           fail: true
+          lycheeVersion: v0.24.2
           # removed md files that include liquid tags
-          args: --user-agent 'curl/7.54' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --verbose --no-progress './**/*.md' './**/*.html'
+          # Preserve the old checker's HTTP 403 handling for publishers that block bots.
+          args: >-
+            --accept '200..=299,403' --user-agent 'curl/7.54'
+            --max-concurrency 4 --retry-wait-time 3
+            --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md
+            --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md
+            --verbose --no-progress './**/*.md' './**/*.html'

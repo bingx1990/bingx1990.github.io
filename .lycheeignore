@@ -1,0 +1,2 @@
+# The Unsplash homepage is accessible in browsers but returns HTTP 401 to the checker.
+^https://unsplash\.com/?$
