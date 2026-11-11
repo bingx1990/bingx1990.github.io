@@ -44,4 +44,4 @@ jobs:
           fail: true
           lycheeVersion: v0.24.2
           # only check local links
-          args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+          args: --offline --root-dir '${{ github.workspace }}/_site' --index-files index.html --verbose --no-progress '_site/**/*.html'

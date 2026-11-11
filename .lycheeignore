@@ -1,2 +1,6 @@
 # The Unsplash homepage is accessible in browsers but returns HTTP 401 to the checker.
 ^https://unsplash\.com/?$
+
+# Verified on macOS; this external site's certificate chain is rejected by GitHub's Linux runner.
+# Recheck and remove this exception when the symposium host fixes its certificate chain.
+^https://icsa-canada-chapter\.org/symposium2026/$
