@@ -37,7 +37,7 @@ _styles: |
   }
 ---
 
-My research lies at the intersection of statistics and machine learning, with particular interests in latent variable models, nonconvex optimization, and kernel methods. I develop methods and theory that connect statistical accuracy with computational efficiency.
+My research lies at the intersection of statistics and machine learning. I develop methods and theory for latent variable models, with a particular emphasis on mixture models and nonconvex optimization. A central theme is understanding how computationally efficient algorithms can recover latent structure and achieve strong statistical guarantees.
 
 <section id="current-research" aria-labelledby="current-research-heading" class="current-research-highlight">
   <h2 id="current-research-heading">Current research</h2>
