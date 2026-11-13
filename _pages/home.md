@@ -5,14 +5,12 @@ permalink: /
 subtitle: |
   - <a href='#'>Name in mandarin</a>: 邴欣  <br>
   - <a href='#'>English name</a>: Mike  <br>
-  <br>
-  <strong>Assistant Professor</strong><br>
-  Department of Statistics, University of Illinois Urbana-Champaign<br>
-  <br>
-  <strong>Assistant Professor</strong><br>
-  Department of Statistical Sciences, University of Toronto<br>
-  <br>
-  I am currently on leave from the University of Toronto.
+  - <span style="display: inline-block; vertical-align: top; max-width: calc(100% - 1em);">
+    <a href='#'>Current position</a>:<br>
+    <strong>Assistant Professor</strong>, Department of Statistics, University of Illinois Urbana-Champaign<br>
+    <strong>Assistant Professor</strong>, Department of Statistical Sciences, University of Toronto
+  </span>
+  <span style="display: block; margin-top: 0.75em;">I am currently on leave from the University of Toronto.</span>
 
 profile:
   align: left
