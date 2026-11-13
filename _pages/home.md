@@ -5,8 +5,14 @@ permalink: /
 subtitle: |
   - <a href='#'>Name in mandarin</a>: 邴欣  <br>
   - <a href='#'>English name</a>: Mike  <br>
-  - <a href='#'>Current position</a>: Assistant Professor <br>
-  - <a href='#'>Affiliation</a>: Department of Statistical Sciences, University of Toronto.
+  <br>
+  <strong>Assistant Professor</strong><br>
+  Department of Statistics, University of Illinois Urbana-Champaign<br>
+  <br>
+  <strong>Assistant Professor</strong><br>
+  Department of Statistical Sciences, University of Toronto<br>
+  <br>
+  I am currently on leave from the University of Toronto.
 
 profile:
   align: left
