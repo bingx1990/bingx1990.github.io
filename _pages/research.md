@@ -94,7 +94,7 @@ My research lies at the intersection of statistics and machine learning. I devel
 
 ### Applications
 
-- Eugen Pircalabelu and Xin Bing. <br> _Overlapping clustering of time dependent variables for fMRI data_. <br> **J. R. Statist. Soc. C**, to appear (2026+).
+- Eugen Pircalabelu and Xin Bing. <br> _Overlapping clustering of time-dependent variables for fMRI data_. <br> **Journal of the Royal Statistical Society Series C: Applied Statistics**, qlag033, 24 June 2026. [[Paper]](https://doi.org/10.1093/jrsssc/qlag033).
 - Javad Rahimikollu, Hanxi Xiao, Anna E. Rosengart, Tracy Tabib, Paul Zdinak, Kun He, Xin Bing, Florentina Bunea, Marten Wegkamp, Amanda C. Poholek, Alok V Joglekar, Robert A Lafyatis, Jishnu Das. <br> _SLIDE: Significant Latent Factor Interaction Discovery and Exploration across biological domains_. <br> **Nature Methods**, 21, 835–845 (2024). [[Paper]](https://www.nature.com/articles/s41592-024-02175-z).
 - Xin Bing, Tyler Lovelace, Florentina Bunea, Marten Wegkamp, Harinder Singh, Panayiotis Benos, Jishnu Das. <br> _Essential Regression – a generalizable framework for inferring causal latent factors from multi-omic human datasets_. <br> **Patterns (Cell Press)**, 3(5): 100473, 2022. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2666389922000538).
 - Xin Bing, Florentina Bunea, Martin Royer and Jishnu Das. <br> _Latent Model-Based Clustering for Biological Discovery_. <br> **iScience**, 14: 125–135, 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2589004219300847).
