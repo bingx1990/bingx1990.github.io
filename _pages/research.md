@@ -43,7 +43,7 @@ My research lies at the intersection of statistics and machine learning, with pa
   <h2 id="current-research-heading">Current research</h2>
   <ul>
     <li><strong>LLM representations.</strong> Mixture-based approaches to learning representations of large language model outputs, building on softmax mixtures and nonconvex optimization.</li>
-    <li><strong>Reward modeling and personalization.</strong> Modeling heterogeneous human preferences and developing robust and personalized reward models for reinforcement learning from human feedback (RLHF).</li>
+    <li><strong>Reward modeling and personalization.</strong> Modeling heterogeneous human preferences and developing robust and personalized reward models for reinforcement learning from human feedback.</li>
     <li><strong>Kernel methods and semiparametric efficiency.</strong> Investigating when kernel ridge regression yields semiparametrically efficient estimation in partially linear models.</li>
   </ul>
 </section>
