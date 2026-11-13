@@ -24,10 +24,13 @@ nav_order: 4
 - Weicheng Wu
 - Altria Wu (jointly supervised with [Jesse Gronsbell](https://sites.google.com/view/jgronsbell/))
 
+#### Master’s students
+
+- Peize Zhang (Department of Computer Science, University of Toronto) <br> Previously an undergraduate student in the group.
+
 #### Undergrad students
 
-- Peize Zhang (4th year undergrad at the University of Toronto)
-- Aditya Aryan (3rd year undergrad at the Indian Statistical Institute)
+- Ruiqi Liu (4th-year undergraduate at the University of Toronto)
 
 ---
 
